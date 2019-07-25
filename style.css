@@ -1,0 +1,112 @@
+/* make text middle */
+
+* {
+    text-emphasis-position: middle;
+
+} 
+
+h5 {
+    color: gray; 
+    text-align: center;
+
+}
+
+.body {
+    width: 800px;
+    height: 550px;
+    margin-left: 20%;
+    margin-right: 25%;
+    background-color: gray;
+    padding-top: 20px;
+}
+
+.header {
+    position: relative;
+    width: 600px;
+    height: 65px;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+
+.nav {
+    margin-top: 35px;
+    width: 600px;
+    height: 65px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#container {
+    margin-top: -15px;
+    padding: 20px;
+    margin-left: 80px;
+    
+
+}
+
+.section {
+    width: 290px;
+    height: 150px;
+    background-color: white;
+    
+
+}
+
+.aside {
+    position: fixed;
+    margin-left: 310px;
+    width: 290px;
+    height: 150px;
+    margin-top: -37px;
+    background-color: white;
+    
+    
+}
+
+#section-cont {
+    margin: 0 auto;
+    background-color: gray;
+    width: 250px;
+    height: 100px;
+}
+
+#article {
+    margin-left: 15px;
+    width: 180px;
+    height: 200px;
+    
+}
+
+.H123 {
+    margin-top: -15px;
+    width: 223px;
+    height: 30px;
+    background-color: white;
+}
+
+.p {
+    margin-top: 10px;
+    width: 223px;
+    height: 30px;
+    background-color: white;
+
+}
+.footer {
+    margin-top: 85px;
+    margin-left: -35px;
+    width: 600px;
+    height: 65px;
+    background-color: white;
+
+}
+
+
+
+
+    
+
+
+
+
+
